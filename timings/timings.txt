@@ -1,0 +1,41 @@
+Minecraft
+    Full Server Tick Time: 1130508423 Count: 67 Avg: 16873260 Violations: 1
+    ** Full Server Tick Time: 1130160570 Count: 67 Avg: 16868068 Violations: 1
+    Memory Manager Time: 491381 Count: 68 Avg: 7226 Violations: 0
+    Player Network Send Time: 6384373 Count: 95 Avg: 67204 Violations: 0
+    Player Network Receive Time: 183407068 Count: 27 Avg: 6792854 Violations: 0
+    Player Order Chunks Time: 1660824 Count: 4 Avg: 415206 Violations: 0
+    Connection Handler Time: 191280365 Count: 68 Avg: 2812947 Violations: 0
+    Scheduler Time: 2066135 Count: 68 Avg: 30384 Violations: 0
+    Server Command Time: 1811743 Count: 67 Avg: 27041 Violations: 0
+    ** tickEntity Time: 78698874 Count: 68 Avg: 1157336 Violations: 0
+    ** tickTileEntity Time: 439405 Count: 68 Avg: 6462 Violations: 0
+    ** entityBaseTick Time: 37695885 Count: 408 Avg: 92392 Violations: 0
+    ** livingEntityBaseTick Time: 45729637 Count: 272 Avg: 168124 Violations: 0
+    ** Scheduler - Async Tasks Time: 393152 Count: 68 Avg: 5782 Violations: 0
+    ** world - doChunkUnload Time: 6249189 Count: 6 Avg: 1041532 Violations: 0
+    ** world - doTickPending Time: 550270 Count: 68 Avg: 8092 Violations: 0
+    ** world - doTickTiles Time: 847009182 Count: 68 Avg: 12456017 Violations: 0
+    ** world - entityTick Time: 79419136 Count: 68 Avg: 1167928 Violations: 0
+    ** world - tileEntityTick Time: 1104832 Count: 68 Avg: 16248 Violations: 0
+    world - doTick Time: 939168692 Count: 68 Avg: 13811304 Violations: 0
+    ** sendPacket - SetEntityDataPacket [0x9e] Time: 622988 Count: 8 Avg: 77873 Violations: 0
+    ** tickEntity - EntityPlayer Time: 52227020 Count: 272 Avg: 192011 Violations: 0
+    ** receivePacket - MovePlayerPacket [0x8f] Time: 174046 Count: 4 Avg: 43511 Violations: 0
+    ** receivePacket - PlayerEquipmentPacket [0x98] Time: 2912998 Count: 1 Avg: 2912998 Violations: 0
+    ** sendPacket - PlayerEquipmentPacket [0x98] Time: 500202 Count: 7 Avg: 71457 Violations: 0
+    ** sendPacket - ContainerSetSlotPacket [0xa8] Time: 174999 Count: 2 Avg: 87500 Violations: 0
+    ** sendPacket - MoveEntityPacket [0x8e] Time: 222921 Count: 4 Avg: 55730 Violations: 0
+    ** receivePacket - UseItemPacket [0x9b] Time: 175146580 Count: 11 Avg: 15922416 Violations: 0
+    ** sendPacket - UpdateBlockPacket [0x91] Time: 2630711 Count: 44 Avg: 59789 Violations: 0
+    ** receivePacket - AnimatePacket [0xa3] Time: 3159761 Count: 9 Avg: 351085 Violations: 0
+    ** sendPacket - AnimatePacket [0xa3] Time: 1547813 Count: 27 Avg: 57326 Violations: 0
+    ** receivePacket - PlayerActionPacket [0x9c] Time: 56028 Count: 1 Avg: 56028 Violations: 0
+    ** tickEntity - Arrow Time: 20571709 Count: 136 Avg: 151263 Violations: 0
+    ** sendPacket - LevelEventPacket [0x94] Time: 204086 Count: 3 Avg: 68029 Violations: 0
+    ** receivePacket - RemoveBlockPacket [0x90] Time: 1807928 Count: 1 Avg: 1807928 Violations: 0
+# Version v0.11.0 alpha
+# PocketMine-MP 1.5dev-1254
+# Entities 8
+# LivingEntities 4
+Sample time 3399762869 (3.3997628688812s)
